@@ -1,0 +1,3 @@
+set -v
+gcc vel.c -lm
+./a.out

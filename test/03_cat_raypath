@@ -1,0 +1,3 @@
+set -v
+cat data/center_raypath.txt  data/perturbed_raypath.txt > data/perturb.txt &
+cat data/raypath_in_true.txt data/perturbed_raypath.txt > data/accuracy.txt &

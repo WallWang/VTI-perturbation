@@ -1,0 +1,14 @@
+velocity=./vel/vel_all.dat
+anisotropic_para_epos=./epos/epos_all.dat
+anisotropic_para_delta=./delta/delta_all.dat
+raypath_filename=./data/raypath_in_true.txt
+nx=901
+nz=901
+dx=10.
+dz=10.
+fx=0.
+fz=0.
+ds=0.001
+theta=20
+x_start=3000
+z_start=6000

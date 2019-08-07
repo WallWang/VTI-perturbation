@@ -1,0 +1,5 @@
+set -v
+
+ximage_large_curve < ./vel/vel_all.dat n1=901 n2=901 d1=10 d2=10 hbox=1000 wbox=1000 large_curve=./data/perturb.txt   legend=1 curvecolor=red &
+
+ximage_large_curve < ./vel/vel_all.dat n1=901 n2=901 d1=10 d2=10 hbox=1000 wbox=1000 large_curve=./data/accuracy.txt   legend=1 curvecolor=red &

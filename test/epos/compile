@@ -1,0 +1,3 @@
+set -v
+gcc epos.c -lm
+./a.out

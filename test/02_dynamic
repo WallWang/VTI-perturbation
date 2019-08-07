@@ -1,0 +1,2 @@
+set -v
+../bin/dynamic  par=dynamic.par
